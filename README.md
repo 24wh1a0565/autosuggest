@@ -1,11 +1,11 @@
 # autosuggest
-verifying my git set-up  
+verifying my git set-up
 hi
 
 changes flow(UI)
 1. add(plus button)
 2. commit with message
-3. push/sync 
+3. push/sync
 
 commands :
 1. git add -A
