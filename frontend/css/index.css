@@ -1,0 +1,57 @@
+h1{
+    color : red; 
+}
+#heading-2{
+    color :blueviolet; 
+}
+.heading{
+    color : blue;
+}
+.para{
+    border : 2px;
+    border-color: brown;
+    border-style : solid;
+    padding: 20px;
+    text-align: center;
+}
+.navbar{
+    border : 3px;
+    border-style: solid;
+    border-color: black;
+    padding : 15px;
+    background-color: lightcoral;
+    text-align: center;
+
+}
+.navbar a{
+    color: aquamarine;
+    padding: 15px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+body{
+    margin: 0px;
+}
+.card{
+    border:5px solid black;
+    width : 300px;
+    text-align: center;
+      margin: 20px auto ;
+
+}
+.card img{
+    width : 100%;
+}
+.card{
+    text-align: center;
+}
+
+.card button{
+    margin-top: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
