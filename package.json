@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manaswini-2512/autosuggest.git"
+    "url": "git+https://github.com/24wh1a0565/autosuggest.git"
   },
   "author": "manaswini",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Manaswini-2512/autosuggest/issues"
+    "url": "https://github.com/24wh1a0565/autosuggest/issues"
   },
-  "homepage": "https://github.com/Manaswini-2512/autosuggest#readme",
+  "homepage": "https://github.com/24wh1a0565/autosuggest#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
